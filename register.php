@@ -1,5 +1,5 @@
 <?php
-    require_once 'config.php';
+    require_once 'register.php';
 
     $username = $password = $confirmPassword = '';
     $usernameErr = $passwordErr = $confirmPasswordErr = '';
